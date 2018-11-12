@@ -20,4 +20,7 @@ Proxy、Reflect
 - `node`、`mongodb`已经接近两年没接触了，需要重新学习一下
 
 ### 2018.5.13
-开了一个项目`react-demos`
+react学习
+
+### 2018.10.31
+`egg-vue-ssr`尝试
